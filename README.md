@@ -10,4 +10,5 @@ A brute force algorithm in C++ is implemented.
 It visits the empty cells in order, filling in a valid number sequentially
 and backtracking if necessary when the number is found to be no longer valid.
 </p>
-![sudoku-grid](https://user-images.githubusercontent.com/71327414/162138091-55109890-91da-4482-b097-0635b294898e.png)
+
+![image](https://user-images.githubusercontent.com/71327414/162138091-55109890-91da-4482-b097-0635b294898e.png)
